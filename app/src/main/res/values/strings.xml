@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Health-App</string>
+    <string name="child_1">Child 1</string>
+    <string name="child_3">Child 3</string>
+    <string name="child_2">Child 2</string>
+    <string name="child_4">Child 4</string>
+    <string name="child_6">Child 6</string>
+    <string name="child_5">Child 5</string>
+    <string name="children">Children</string>
+</resources>
